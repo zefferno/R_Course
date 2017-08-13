@@ -82,3 +82,4 @@ hist(results.df$out.degree, main="Histogram for Out-Degree (after a change)")
 hist(results.df$betweenness, main="Histogram for Betweenness (after a change)")
 hist(results.df$in.closeness, main="Histogram for In-Closeness (after a change)")
 hist(results.df$out.closeness, main="Histogram for Out-Closeness (after a change)")
+
